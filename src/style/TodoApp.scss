@@ -1,0 +1,19 @@
+.todo-app{
+
+    .container{
+
+
+        .task-item{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            // .task-completed{
+            //     text-decoration: line-through;
+            // }
+        }
+    }
+}
+.task-completed{
+    text-decoration: line-through;
+}
